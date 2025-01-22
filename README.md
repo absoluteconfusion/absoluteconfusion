@@ -1,3 +1,3 @@
 ## 👋 Hi, I’m @absoluteconfusion aka. Mia
-- I'm a sophomore at UW Bothell.
-- I'm a premajor planning to apply for the Applied Computing major with a Data Analytics minor.
+- I'm a Junior at UW Bothell.
+- I'm a Data Visulization major with a minor in Science, Technology, & Society.
