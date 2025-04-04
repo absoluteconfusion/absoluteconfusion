@@ -1,3 +1,3 @@
 ## 👋 Hi, I’m @absoluteconfusion aka. Mia
 - I'm a Junior at UW Bothell.
-- I'm a Data Visulization major with a minor in Science, Technology, & Society.
+- I'm double majoring with Data Visulization and Science, Technology & Society.
